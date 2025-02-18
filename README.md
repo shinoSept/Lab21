@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ชิโนรส ปุณริบูรณ์
+# STUDENT ID: 670612118
